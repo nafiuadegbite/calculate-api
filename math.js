@@ -4,8 +4,8 @@ const divide = (a, b) => a / b;
 const multiply = (a, b) => a * b;
 
 module.exports = {
-    add,
-    subtract,
-    divide,
-    multiply,
-}
+  add,
+  subtract,
+  divide,
+  multiply,
+};
